@@ -1,9 +1,11 @@
 ---
+const getDate = (date: string) => {
+  const dateParts = date.split("-").map((e) => Number(e));
+  return new Date(dateParts[2], dateParts[1] - 1, dateParts[0]).valueOf();
+};
 // Use Astro.glob() to fetch all posts, and then sort them by date.
 const posts = (await Astro.glob("/src/pages/blog/*.md")).sort(
-  (a, b) =>
-    new Date(b.frontmatter.pubDate).valueOf() -
-    new Date(a.frontmatter.pubDate).valueOf()
+  (a, b) => getDate(b.frontmatter.pubDate) - getDate(a.frontmatter.pubDate)
 );
 ---
 
@@ -60,7 +62,7 @@ const posts = (await Astro.glob("/src/pages/blog/*.md")).sort(
   li:nth-child(3n + 1) a {
     background-color: var(--clr-blue);
   }
-  li:nth-child(4n + 2) a {
+  li:nth-child(3n + 2) a {
     background-color: var(--clr-green);
   }
   h2 {

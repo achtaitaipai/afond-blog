@@ -18,11 +18,17 @@ const {
   <body>
     <Header />
     <main>
-      <a href="/">Retour</a>
+      <a href="/" class="back">Retour</a>
       <article>
         <h2 class="title">{title}</h2>
-        {heroImage && <img width={720} height={360} src={heroImage} alt="" />}
-        {pubDate && <time>{new Date(pubDate).toLocaleString("FR")}</time>}
+        {
+          heroImage && (
+            <figure>
+              <img width={720} height={360} src={heroImage} alt="" />
+            </figure>
+          )
+        }
+        {pubDate && <time>{pubDate}</time>}
 
         <hr />
         <div class="markdown-body">
@@ -32,16 +38,34 @@ const {
     </main>
     <style>
       main {
-        width: 80%;
+        width: max(60%, 18em);
         margin: 2rem auto;
+      }
+      .back {
+        color: black;
+      }
+      figure {
+        width: 80%;
+        height: auto;
+        aspect-ratio: 16/9;
+        margin: auto;
       }
       img {
         width: 100%;
-        height: auto;
+        height: 100%;
+        object-fit: contain;
       }
       h2 {
         font-family: var(--font-secondary);
         font-size: 2rem;
+        line-height: 2;
+        margin-bottom: 2rem;
+      }
+      time {
+        font-weight: 100;
+        font-style: italic;
+        font-size: 0.8rem;
+        font-family: monospace;
       }
       .markdown-body {
         background-color: transparent;
