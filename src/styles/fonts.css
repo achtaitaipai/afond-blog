@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "KGMissKindergarten";
+  src: url("./fonts/KGMissKindergarten-webfont.woff2") format("woff2"),
+    url("./fonts/KGMissKindergarten-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Moonlight";
+  src: url("./fonts/Hanoded-MoonlightSerenade.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Leonsans";
+  src: url("./fonts/LeonSans-regular.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Leonsans";
+  src: url("./fonts/LeonSans-medium.otf") format("opentype");
+  font-weight: bold;
+}
+@font-face {
+  font-family: "Leonsans";
+  src: url("./fonts/LeonSans-bold.otf") format("opentype");
+  font-weight: bolder;
+}

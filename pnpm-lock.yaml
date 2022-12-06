@@ -4,11 +4,13 @@ specifiers:
   '@astrojs/rss': ^1.0.3
   '@astrojs/sitemap': ^1.0.0
   astro: ^1.6.12
+  github-markdown-css: ^5.1.0
 
 dependencies:
   '@astrojs/rss': 1.0.3
   '@astrojs/sitemap': 1.0.0
   astro: 1.6.12
+  github-markdown-css: 5.1.0
 
 packages:
 
@@ -1646,6 +1648,10 @@ packages:
   /get-stream/6.0.1:
     resolution: {integrity: sha512-ts6Wi+2j3jQjqi70w5AlN8DFnkSwC+MqmxEzdEALB2qXZYV3X/b1CTfgPLGJNMeAWxdPfU8FO1ms3NUfaHCPYg==}
     engines: {node: '>=10'}
+    dev: false
+
+  /github-markdown-css/5.1.0:
+    resolution: {integrity: sha512-QLtORwHHtUHhPMHu7i4GKfP6Vx5CWZn+NKQXe+cBhslY1HEt0CTEkP4d/vSROKV0iIJSpl4UtlQ16AD8C6lMug==}
     dev: false
 
   /github-slugger/1.5.0:

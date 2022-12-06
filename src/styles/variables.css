@@ -1,0 +1,11 @@
+:root {
+  --font-regular: "LeonSans", sans-serif;
+  --font-title: "KGMissKindergarten", sans-serif;
+  --font-secondary: "Moonlight", sans-serif;
+  --clr-white: #f6f4ed;
+  --clr-red: #e7392e;
+  --clr-yellow: #ffd239;
+  --clr-blue: #3d4a9a;
+  --clr-green: #00a1a2;
+  --clr-orange: #eb5c38;
+}

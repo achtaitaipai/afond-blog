@@ -4,16 +4,27 @@ import { SITE_TITLE } from "../config";
 ---
 
 <header>
+  <a href="https://afondlemag.fr/" title="site d'À fond">
+    <img src="/images/afond-logo.png" alt="Logo À Fond " />
+  </a>
   <h1>
     {SITE_TITLE}
   </h1>
-  Header
 </header>
 <style>
   header {
-    margin: 0em 0 2em;
+    padding-block: 2rem;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
   }
+  a {
+  }
+
   h1 {
-    margin: 0.5em 0;
+    font-family: var(--font-title);
+    font-size: 2.5rem;
   }
 </style>

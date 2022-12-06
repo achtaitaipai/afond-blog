@@ -1,18 +1,10 @@
 ---
 import BaseHead from "../components/BaseHead.astro";
 import Header from "../components/Header.astro";
-import Footer from "../components/Footer.astro";
+import type { ArticleType } from "../types/article";
+import "github-markdown-css/github-markdown.css";
 
-export interface Props {
-  content: {
-    title: string;
-    description: string;
-    pubDate?: string;
-    updatedDate?: string;
-    heroImage?: string;
-  };
-}
-
+export type Props = { content: ArticleType };
 const {
   content: { title, description, pubDate, updatedDate, heroImage },
 } = Astro.props;
@@ -21,16 +13,6 @@ const {
 <html lang="en">
   <head>
     <BaseHead title={title} description={description} />
-    <style>
-      .title {
-        font-size: 2em;
-        margin: 0.25em 0 0;
-      }
-      hr {
-        border-top: 1px solid #ddd;
-        margin: 1rem 0;
-      }
-    </style>
   </head>
 
   <body>
@@ -38,24 +20,32 @@ const {
     <main>
       <a href="/">Retour</a>
       <article>
+        <h2 class="title">{title}</h2>
         {heroImage && <img width={720} height={360} src={heroImage} alt="" />}
-        <h1 class="title">{title}</h1>
-        {pubDate && <time>{pubDate}</time>}
-        {
-          updatedDate && (
-            <div>
-              Last updated on <time>{updatedDate}</time>
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Neque
-              architecto doloribus eos labore tempora excepturi corporis
-              voluptatem molestiae, fuga, delectus dolores aperiam voluptates
-              quasi repellendus illum sint eligendi expedita nam.
-            </div>
-          )
-        }
+        {pubDate && <time>{new Date(pubDate).toLocaleString("FR")}</time>}
+
         <hr />
-        <slot />
+        <div class="markdown-body">
+          <slot />
+        </div>
       </article>
     </main>
-    <Footer />
+    <style>
+      main {
+        width: 80%;
+        margin: 2rem auto;
+      }
+      img {
+        width: 100%;
+        height: auto;
+      }
+      h2 {
+        font-family: var(--font-secondary);
+        font-size: 2rem;
+      }
+      .markdown-body {
+        background-color: transparent;
+      }
+    </style>
   </body>
 </html>
