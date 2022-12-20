@@ -1,18 +1,12 @@
 ---
 layout: ../../layouts/BlogPost.astro
-title: Est-ce que les images fonctionnnent ?
-description: "Je vérifie que les images sont bien branchées ! "
+title: "À fond ! dans Télématin "
+description: Vu à la TV
 pubDate: 01-12-2021
-heroImage: /images/oim.png
+heroImage: /images/capture-d’écran-2022-12-20-à-12.14.27.png
 ---
+Avec Samuel Ollivier, on se lève du bon pied. Le journaliste avait consacré sa chronique sportive de l'émission Télématin (France 2) à À fond ! lors de son lancement. Le magazine était l'immanquable de Samuel. 
 
-Un **labyrinthe** (λαϐύρινθος ou λαβύρινθος / *labúrinthos* en [grec ancien](https://fr.wikipedia.org/wiki/Grec_ancien "Grec ancien"), *labyrinthus* en [latin](https://fr.wikipedia.org/wiki/Latin "Latin")) est un tracé [sinueux](https://fr.wikipedia.org/wiki/Sinuosit%C3%A9 "Sinuosité"), muni ou non d'embranchements, d'impasses et de fausses pistes, destiné à perdre ou à ralentir celui qui cherche à s'y déplacer.
+Une chronique à découvrir en intégralité ici
 
-Ce motif, apparu dès la [préhistoire](https://fr.wikipedia.org/wiki/Pr%C3%A9histoire "Préhistoire"), se retrouve dans de très nombreuses [civilisations](https://fr.wikipedia.org/wiki/Civilisation "Civilisation") sous des formes diverses.
-
-Le mot désigne dans la [mythologie grecque](https://fr.wikipedia.org/wiki/Mythologie_grecque "Mythologie grecque") une série complexe de galeries construites par [Dédale](https://fr.wikipedia.org/wiki/D%C3%A9dale "Dédale") pour enfermer le [Minotaure](https://fr.wikipedia.org/wiki/Minotaure "Minotaure"). En [latin](https://fr.wikipedia.org/wiki/Latin "Latin"), *labyrinthus* signifie « enclos de bâtiments dont il est difficile de trouver l’issue »[1](https://fr.wikipedia.org/wiki/Labyrinthe#cite_note-1).
-
-De nos jours, le terme de labyrinthe désigne une organisation complexe, tortueuse, concrète ([architecture](https://fr.wikipedia.org/wiki/Architecture "Architecture"), [urbanisme](https://fr.wikipedia.org/wiki/Urbanisme "Urbanisme"), jardins, paysages...) ou abstraite (structures, façons de penser...), où la personne peut se perdre. Le cheminement du labyrinthe est difficile à suivre et à saisir dans sa globalité.
-
-\
-Cependant une distinction est parfois opérée entre le terme **_dédale_** qui désigne un labyrinthe avec des murs, des impasses, des choix multiples et le terme **_labyrinthe_** qui désigne la figure sans mur, avec un chemin unique (type Chartres par exemple). Il est dit que dans un dédale on se perd et dans un labyrinthe, on se trouve. La langue anglaise fait aussi une distinction entre **_maze_** et **_labyrinth_**[2](https://fr.wikipedia.org/wiki/Labyrinthe#cite_note-2).
+<https://youtu.be/J4Q3DmSHBlM>
