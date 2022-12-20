@@ -1,9 +1,9 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: Déjà le numéro 3 !
-description: Du ski, du rugby, du biathlon, un bon numéro d'hiver
+description: Du ski + du rugby + du biathlon = 1 bon numéro d'hiver
 pubDate: 20-12-2022
-heroImage: /images/sans-titre-5.jpg
+heroImage: /images/3.jpg
 ---
 La skieuse Tessa Worley est en couverture du premier numéro de l’année 2023. Un numéro d'hiver à lire bien au chaud. Il arrivera début janvier chez nos abonnés. 
 
