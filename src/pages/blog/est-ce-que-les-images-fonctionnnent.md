@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: "À fond ! dans Télématin "
-description: Vu à la TV - L'immanquable de Samuel Olivier
+description: Vu à la TV - L'immanquable de Samuel Ollivier
 pubDate: 01-12-2021
 heroImage: /images/l.jpg
 ---
