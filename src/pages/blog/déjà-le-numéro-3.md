@@ -9,7 +9,7 @@ La skieuse Tessa Worley est en couverture du premier numéro de l’année 2023.
 
 Voici le sommaire d’***À fond!*** :
 
-***La grande histoire*** : Tessa Worley, l’étoile des neiges. 
+***La grande histoire*** : Tessa Worley, l’étoile des neiges
 
 ***Le dossier*** : Rugby, la mêlée démêlée 
 
