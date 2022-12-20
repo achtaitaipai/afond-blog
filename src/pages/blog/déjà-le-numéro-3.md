@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: Déjà le numéro 3 !
-description: Du ski, du rugby, du biathlon, un bon numéro d'hiver
+description: Du ski + du rugby + du biathlon = 1 bon numéro d'hiver
 pubDate: 20-12-2022
 heroImage: /images/3.jpg
 ---
