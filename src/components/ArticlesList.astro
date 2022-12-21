@@ -1,4 +1,5 @@
 ---
+import { Image } from "@astrojs/image/components";
 const getDate = (date: string) => {
   const dateParts = date.split("-").map((e) => Number(e));
   return new Date(dateParts[2], dateParts[1] - 1, dateParts[0]).valueOf();
@@ -15,7 +16,15 @@ const posts = (await Astro.glob("/src/pages/blog/*.md")).sort(
       <li>
         <a href={url}>
           <figure>
-            <img src={frontmatter.heroImage} alt="" />
+            <Image
+              src={frontmatter.heroImage}
+              alt={frontmatter.altImage}
+              width={500}
+              aspectRatio={1}
+              fit="contain"
+              background="transparent"
+              format="webp"
+            />
           </figure>
           <h2>{frontmatter.title}</h2>
           <p>{frontmatter.description}</p>
@@ -28,7 +37,8 @@ const posts = (await Astro.glob("/src/pages/blog/*.md")).sort(
 <style>
   ul {
     display: grid;
-    width: clamp(20rem, 40vw, 40rem);
+    --content-width: clamp(20rem, 40vw, 40rem);
+    width: var(--content-width);
     margin: auto;
     align-items: center;
     justify-content: center;
@@ -73,13 +83,9 @@ const posts = (await Astro.glob("/src/pages/blog/*.md")).sort(
     padding-inline: 1rem;
   }
   figure {
-    width: 100%;
-    height: auto;
-    aspect-ratio: 16/9;
+    width: min(500px, 100%);
   }
   img {
-    object-fit: cover;
-    width: 100%;
-    height: 100%;
+    max-width: 100%;
   }
 </style>

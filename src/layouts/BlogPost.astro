@@ -1,4 +1,5 @@
 ---
+import { Image } from "@astrojs/image/components";
 import BaseHead from "../components/BaseHead.astro";
 import Header from "../components/Header.astro";
 import type { ArticleType } from "../types/article";
@@ -24,7 +25,15 @@ const {
         {
           heroImage && (
             <figure>
-              <img width={720} height={360} src={heroImage} alt="" />
+              <Image
+                src={heroImage}
+                alt=""
+                width={500}
+                aspectRatio={1}
+                fit="contain"
+                background="transparent"
+                format="webp"
+              />
             </figure>
           )
         }
@@ -45,14 +54,11 @@ const {
         color: black;
       }
       figure {
-        width: 80%;
-        height: auto;
-        aspect-ratio: 16/9;
+        width: min(80%, 500px);
         margin: auto;
       }
       img {
         width: 100%;
-        height: 100%;
         object-fit: contain;
       }
       h2 {

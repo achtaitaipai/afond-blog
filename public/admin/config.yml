@@ -16,8 +16,9 @@ collections:
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Layout", name: "layout", widget: "hidden", default: "../../layouts/BlogPost.astro"}
-      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Titre", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "string"}
-      - {label: "date", name: "pubDate", widget: "datetime", format: 'DD-MM-YYYY'}
-      - {label: "Hero Image", name: "heroImage", widget: "image"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Date", name: "pubDate", widget: "datetime", format: 'DD-MM-YYYY'}
+      - {label: "Image", name: "heroImage", widget: "image"}
+      - {label: "text alternatif", name: "altImage", widget: "string"}
+      - {label: "Contenu de l'article", name: "body", widget: "markdown"}
