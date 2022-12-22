@@ -21,7 +21,7 @@ Voici le sommaire d’**_À fond!_** :
 
 - **_Quand j’avais 10 ans_** par Alexandre Léauté, champion de paracyclisme
 
-- **_Le geste de pro_** : la manchette en volley expliquée par Héléna Cazaute
+- **_Le geste de pro_** : la manchette en volley, expliquée par Héléna Cazaute
 
 - **_La gazette_** avec les Phryges et Victor Wenbanyama
 
