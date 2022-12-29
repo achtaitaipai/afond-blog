@@ -6,25 +6,16 @@ pubDate: 20-12-2022
 heroImage: /images/3.jpg
 altImage: Couverture du numéro 3 d'À fond
 ---
+#### **La skieuse Tessa Worley est en couverture du premier numéro de l’année 2023. Un numéro d'hiver à lire bien au chaud. Il arrivera début janvier chez nos abonnés et en libriairie.**
 
-La skieuse Tessa Worley est en couverture du premier numéro de l’année 2023. Un numéro d'hiver à lire bien au chaud. Il arrivera début janvier chez nos abonnés.
+**Voici le sommaire d’*À fond!* :**
 
-Voici le sommaire d’**_À fond!_** :
-
-- **_La grande histoire_** : Tessa Worley, l’étoile des neiges
-
-- **_Le dossier_** : Rugby, la mêlée démêlée
-
-- **_Le reportage_** : Au cœur d’une course de biathlon
-
-- **_Cartes champions à découper_** : les grands joueurs français de NBA
-
-- **_Quand j’avais 10 ans_** par Alexandre Léauté, champion de paracyclisme
-
-- **_Le geste de pro_** : la manchette en volley, expliquée par Héléna Cazaute
-
-- **_La gazette_** avec les Phryges et Victor Wenbanyama
-
-- **_La gazette des Fondus_** avec vos plus beaux dessins de Kylian Mbappé
-
-- Et le **_poster_** d’Antoine Dupont, demi de mêlée du XV de France
+* ***La grande histoire* : Tessa Worley, l’étoile des neiges**
+* ***Le dossier* : Rugby, la mêlée démêlée**
+* ***Le reportage* : Au cœur d’une course de biathlon**
+* ***Cartes champions à découper* : les grands joueurs français de NBA**
+* ***Quand j’avais 10 ans* par Alexandre Léauté, champion de paracyclisme**
+* ***Le geste de pro* : la manchette en volley, expliquée par Héléna Cazaute**
+* ***La gazette* avec les Phryges et Victor Wenbanyama**
+* ***La gazette des Fondus* avec vos plus beaux dessins de Kylian Mbappé**
+* **Et le *poster* d’Antoine Dupont, demi de mêlée du XV de France**
