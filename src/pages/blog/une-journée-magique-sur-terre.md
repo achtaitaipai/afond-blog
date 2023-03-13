@@ -15,7 +15,7 @@ Au programme : **accès au court Philippe Chatrier**, tout près des joueurs et 
 
 Cette journée restera gravée dans la mémoire des deux enfants et dans le magazine, puisqu'elle donnera lieu à un reportage dans la Gazette des Fondus du numéro 6.
 
-Pour participer, il faut que tu sois **abonné(e) au magazine** et que tu répondes à cette question : quel était le métier de Roland-Garros.
+Pour participer, il faut que tu sois **abonné(e) au magazine** et que tu répondes à cette question : quel était le métier de Roland-Garros ?
 
 Mo et Jo, nos deux mascottes, se chargeront du tirage au sort. Écris-leur à : **moetjo@afondlemag.fr** avant le 28 avril. 
 
