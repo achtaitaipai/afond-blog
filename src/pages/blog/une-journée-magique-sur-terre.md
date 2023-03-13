@@ -4,7 +4,7 @@ title: Une journée magique sur terre !
 description: "Concours : France Télévisions invite 2 abonné(e)s à vivre une
   journée inoubliable à Roland-Garros"
 pubDate: 13-03-2023
-heroImage: /images/capture-d’écran-2023-03-09-à-09.06.45.png
+heroImage: /images/capture-d’écran-2023-03-09-à-09.06.45.png
 altImage: Concours France Télévisions x À fond ! pour gagner 2 places pour Roland-Garros
 ---
 Concours de folie dans le numéro 4 d'À fond !
