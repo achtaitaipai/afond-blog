@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/BlogPost.astro
-title: Une journée magique sur terre !
+title: "Concours : Une journée magique sur terre !"
 description: "Concours : France Télévisions invite 2 abonné(e)s à vivre une
   journée inoubliable à Roland-Garros"
 pubDate: 13-03-2023
