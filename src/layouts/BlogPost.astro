@@ -3,7 +3,7 @@ import { Image } from "@astrojs/image/components";
 import BaseHead from "../components/BaseHead.astro";
 import Header from "../components/Header.astro";
 import type { ArticleType } from "../types/article";
-import "github-markdown-css/github-markdown.css";
+import "../styles/markdown-body.css";
 
 export type Props = { content: ArticleType };
 const {
@@ -29,7 +29,7 @@ const {
                 src={heroImage}
                 alt=""
                 width={500}
-                aspectRatio={1}
+                aspectRatio={1.33}
                 fit="contain"
                 background="transparent"
                 format="webp"
@@ -48,14 +48,22 @@ const {
     <style>
       main {
         width: max(60%, 18em);
+        max-width: 75ch;
         margin: 2rem auto;
+        font-weight: normal;
       }
       .back {
         color: black;
       }
       figure {
         width: min(80%, 500px);
-        margin: auto;
+        margin-inline: auto;
+        margin-block: var(--size-step-1);
+      }
+      article {
+        margin-inline: auto;
+        margin-block: var(--size-step-1);
+        max-width: 65ch;
       }
       img {
         width: 100%;
@@ -63,18 +71,15 @@ const {
       }
       h2 {
         font-family: var(--font-secondary);
-        font-size: 2rem;
-        line-height: 2;
-        margin-bottom: 2rem;
+        font-size: var(--size-step-3);
+        line-height: 1.2;
+        max-width: 28ch;
       }
       time {
         font-weight: 100;
         font-style: italic;
         font-size: 0.8rem;
         font-family: monospace;
-      }
-      .markdown-body {
-        background-color: transparent;
       }
     </style>
   </body>
