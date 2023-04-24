@@ -12,6 +12,6 @@ Découvrez la chronique de Winny Claret dans l'***Esprit Sport* (France Inter)**
 
 <https://www.radiofrance.fr/franceinter/podcasts/esprit-sport/esprit-sport-du-jeudi-30-mars-2023-7094117>
 
-Et lisez un article (très complet) du site ***Ma Famille Zen***.
+Et lisez un article (très complet) sur le site ***Ma Famille Zen***.
 
 <https://www.mafamillezen.com/a-fond-nouveau-magazine-sportif-pour-les-7-11-ans/>
