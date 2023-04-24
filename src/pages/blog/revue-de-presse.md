@@ -3,7 +3,7 @@ layout: ../../layouts/BlogPost.astro
 title: Revue de presse
 description: À fond! sur France Inter et dans Ma Famille Zen
 pubDate: 24-04-2023
-heroImage: /images/capture-d’écran-2023-04-24-à-10.15.25.png
+heroImage: /images/mafamillezen.jpg
 altImage: Le magazine dans les médias
 ---
 **Notre jeune magazine de sport continue de faire parler de lui.** 
