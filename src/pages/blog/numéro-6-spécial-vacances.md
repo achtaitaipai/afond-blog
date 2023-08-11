@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/BlogPost.astro
-title: "Numéro 6 : spécial vacances "
+title: "Numéro 6 : Spécial vacances !"
 description: Du football, de l'athlétisme et 12 pages de jeux dans ton numéro de l'été
 pubDate: 07-08-2023
 heroImage: /images/6.png
