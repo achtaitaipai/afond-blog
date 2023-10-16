@@ -9,7 +9,7 @@ altImage: Myriam Alizon a reçu le prix du média pour À fond !
 ---
 On pourrait se dire qu’un magazine de sport qui parle de sportives autant que de sportifs, c’est simplement normal. Aujourd’hui, ce ne l’est pas ! Et c’est pour cela qu’À fond! a été récompensé aux **Trophées de la Fondation Alice Milliat 2023** ! Le magazine a remporté le prix du média, qui souligne notre engagement pour la promotion du sport féminin. Car dans À fond!, il y a autant de sportives que de sportifs.
 
-Myriam Alizon, la fondatrice et rédactrice en chef du magazine y veille depuis le premier numéro. 
+Myriam Alizon, la fondatrice et rédactrice en chef du magazine, y veille depuis le premier numéro. 
 
 > "*Je veux montrer aux enfants que les filles ont autant leur place que les garçons sur un terrain de sport et dans les médias. Je veux les habituer à voir des sportives en une, à accrocher des posters de footballeuses, de skieuses sur les murs de leur chambre. Je veux que ce soit naturel et évident pour eux que le sport féminin mérite le même traitement que le sport masculin.*"
 
