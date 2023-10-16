@@ -13,4 +13,4 @@ Myriam Alizon, la fondatrice et rédactrice en chef du magazine y veille depuis 
 
 > "Je veux montrer aux enfants que les filles ont autant leur place que les garçons sur un terrain de sport et dans les médias. Je veux les habituer à voir des sportives en une, à accrocher des posters de footballeuses, de skieuses sur les murs de leur chambre. Je veux que ce soit naturel et évident pour eux que le sport féminin mérite le même traitement que le sport masculin."
 
-Nous remercions la Fondation Alice Milliat et le jury, présidé par Roxana Maracineaunu,  d’avoir mis à l’honneur notre jeune magazine. Le trophée nous a été remis par Laurie Delhostal et Mejdaline Mhiri, co-présidentes de l'associaiton des Femmes journalistes de sport.
+Nous remercions la Fondation Alice Milliat et le jury, présidé par Roxana Maracineaunu,  d’avoir mis à l’honneur notre jeune magazine. Le trophée nous a été remis par Laurie Delhostal et Mejdaline Mhiri, co-présidentes de l'associaton des Femmes journalistes de sport.
