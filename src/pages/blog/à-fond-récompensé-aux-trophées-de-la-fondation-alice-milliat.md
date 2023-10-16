@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/BlogPost.astro
-title: À fond! récompensé aux Trophées de la Fondation Alice Milliat
+title: À fond! récompensé aux Trophées de la Fondation Alice Milliat 2023
 description: Le magazine a reçu le prix du média pour son implication dans la
   promotion du sport féminin
 pubDate: 16-10-2023
