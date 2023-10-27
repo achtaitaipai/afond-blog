@@ -1,7 +1,8 @@
 ---
 layout: ../../layouts/BlogPost.astro
-title: Les gardiens à l'honneur
-description: Le numéro 8 est en vente avec du cynisme, des sports co et de l'équitation
+title: Les gardiens à l'honneur du numéro 8
+description: Découvre aussi l'histoire de Mathieu de van der Poel et un
+  reportage photo sur l'équitation
 pubDate: 27-10-2023
 heroImage: /images/8-2.png
 altImage: Sortie du numéro 8 d'A fond!
