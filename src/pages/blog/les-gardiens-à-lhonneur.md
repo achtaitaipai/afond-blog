@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: Les gardiens à l'honneur du numéro 8
-description: Découvre aussi l'histoire de Mathieu de van der Poel et un
+description: Découvre aussi l'histoire du cycliste Mathieu de van der Poel et un
   reportage photo sur le concours complet  en équitation
 pubDate: 27-10-2023
 heroImage: /images/8-2.png
