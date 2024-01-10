@@ -1,13 +1,12 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: Marine Johannès, la patronne du numéro 9
-description: Basket, Jeux olympiques et saut à ski ! Découvre le sommaire du
-  nouveau numéro de janvier-février
+description: Basket, Jeux olympiques et saut à ski dans le numéro de janvier-février
 pubDate: 10-01-2024
 heroImage: /images/8166ba5e-a379-4f54-a204-d7b732a4a2cb.jpg
 altImage: Marine Johannès en une du numéro de janvier d'À fond!
 ---
-Pour bien commencer l'année sportive, plonge-toi dans le numéro 9 d'À fond dont voici le sommaire = 
+Pour bien commencer l'année sportive, plonge-toi dans le numéro 9 d'À fond dont voici le sommaire : 
 
 * La grande histoire de **Marine Johannès**, la magicienne du basket
 
