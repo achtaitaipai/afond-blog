@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/BlogPost.astro
-title: "Numéro 10  : Vive les sports de plein air"
+title: "Numéro 10  : Vive les sports de plein air !"
 description: Skateboard, ski nautique et ultra-trail au sommaire du numéro de mars-avril
 pubDate: 16-03-2024
 heroImage: /images/10.png
