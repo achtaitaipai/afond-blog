@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/BlogPost.astro
-title: Nos contenus pour la Semaine de la presse et des médias à l'école
+title: Nos contenus pour la Semaine de la presse
 description: Myriam Alizon présente le métier de journaliste de sport
 pubDate: 16-03-2024
 heroImage: /images/le-metier-de-reporter-de-sport.png
